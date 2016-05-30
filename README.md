@@ -1,4 +1,4 @@
-# Database-Veiwer-Editor
+# Database-Viewer-Editor
 An application that allows you to view/edit a MySQL Database
 
 ## This application allows the user to do the following:

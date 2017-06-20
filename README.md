@@ -18,5 +18,3 @@ An application that allows you to view/edit a MySQL Database
 
 **NOTE**: Application requires MySQL Connector to be installed to connect to MySQL Databases
 http://dev.mysql.com/downloads/connector/odbc/
-
-**Blogspot** (With pictures): http://rachnus.blogspot.fi/

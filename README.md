@@ -1,7 +1,7 @@
 # Database-Viewer-Editor (Old and sloppy code, from 2014~)
 An application that allows you to view/edit a MySQL Database
 
-Disclaimer: I was very new to object oriented programming 😅
+Disclaimer: I was very new to programming 😅
 
 ## This application allows the user to do the following:
 - Save database login information for ease of access, the login information is saved in a text file and read from it when connecting.

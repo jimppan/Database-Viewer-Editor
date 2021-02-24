@@ -1,5 +1,6 @@
 # Database-Viewer-Editor (Old and sloppy code)
 An application that allows you to view/edit a MySQL Database
+
 Disclaimer: I was very new to object oriented programming 😅
 
 ## This application allows the user to do the following:
